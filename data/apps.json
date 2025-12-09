@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "name": "An\u00e1lise de Not\u00edcias GovBR",
+    "description": "Dashboard interativo para an\u00e1lise temporal de not\u00edcias do portal gov.br por ag\u00eancia governamental",
+    "owner": {
+      "name": "Nitai Bezerra",
+      "email": "nitai@example.com"
+    },
+    "category": "analytics",
+    "tags": [
+      "governo",
+      "not\u00edcias",
+      "an\u00e1lise-temporal",
+      "huggingface",
+      "govbr"
+    ],
+    "keywords": "noticias, governo, govbr, analise, dashboard, temporal, agencias",
+    "icon": "\ud83d\udcf0",
+    "version": "1.0.0",
+    "repository": "https://github.com/destaquesgovbr/streamlit-dgb-basic",
+    "documentation": "https://github.com/destaquesgovbr/streamlit-dgb-basic/blob/main/README.md",
+    "_repo_name": "streamlit-dgb-basic",
+    "_repo_url": "https://github.com/destaquesgovbr/streamlit-dgb-basic",
+    "_last_updated": "2025-12-09T20:54:28Z",
+    "_stars": 0
+  }
+]
