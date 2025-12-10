@@ -23,5 +23,27 @@
     "_repo_url": "https://github.com/destaquesgovbr/streamlit-dgb-basic",
     "_last_updated": "2025-12-09T20:54:28Z",
     "_stars": 0
+  },
+  {
+    "name": "Nome da Aplica\u00e7\u00e3o",
+    "description": "Breve descri\u00e7\u00e3o do que este app faz",
+    "owner": {
+      "name": "Nome do Time/Pessoa",
+      "email": "owner@example.com"
+    },
+    "category": "analytics",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "keywords": "palavras, chave, busca",
+    "icon": "\ud83d\udcca",
+    "version": "1.0.0",
+    "repository": "https://github.com/destaquesgovbr/streamlit-my-app",
+    "documentation": "https://github.com/destaquesgovbr/streamlit-my-app/blob/main/README.md",
+    "_repo_name": "streamlit-test-app",
+    "_repo_url": "https://github.com/destaquesgovbr/streamlit-test-app",
+    "_last_updated": "2025-12-09T23:33:27Z",
+    "_stars": 0
   }
 ]
