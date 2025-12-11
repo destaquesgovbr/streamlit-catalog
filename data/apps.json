@@ -21,7 +21,7 @@
     "documentation": "https://github.com/destaquesgovbr/streamlit-dgb-basic/blob/main/README.md",
     "_repo_name": "streamlit-dgb-basic",
     "_repo_url": "https://github.com/destaquesgovbr/streamlit-dgb-basic",
-    "_last_updated": "2025-12-09T20:54:28Z",
+    "_last_updated": "2025-12-10T20:17:20Z",
     "_stars": 0
   },
   {
@@ -44,6 +44,30 @@
     "_repo_name": "streamlit-test-app",
     "_repo_url": "https://github.com/destaquesgovbr/streamlit-test-app",
     "_last_updated": "2025-12-09T23:33:27Z",
+    "_stars": 0
+  },
+  {
+    "name": "HuggingFace Dataset Explorer",
+    "description": "Template para explorar e analisar datasets do HuggingFace com Streamlit",
+    "owner": {
+      "name": "DGB Team",
+      "email": "team@dgb.gov.br"
+    },
+    "category": "analytics",
+    "tags": [
+      "template",
+      "huggingface",
+      "dataset",
+      "explorador"
+    ],
+    "keywords": "huggingface, dataset, explorer, template, analytics",
+    "icon": "\ud83e\udd17",
+    "version": "1.0.0",
+    "repository": "https://github.com/destaquesgovbr/streamlit-template-huggingface",
+    "documentation": "https://github.com/destaquesgovbr/streamlit-template-huggingface/blob/main/README.md",
+    "_repo_name": "streamlit-template-huggingface",
+    "_repo_url": "https://github.com/destaquesgovbr/streamlit-template-huggingface",
+    "_last_updated": "2025-12-10T20:38:31Z",
     "_stars": 0
   }
 ]
