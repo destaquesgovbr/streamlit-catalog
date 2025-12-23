@@ -282,11 +282,11 @@
 
         <div class="stats">
             <div class="stat-card">
-                <div class="number">3</div>
+                <div class="number">4</div>
                 <div class="label">Aplicações</div>
             </div>
             <div class="stat-card">
-                <div class="number" id="categoriesCount">1</div>
+                <div class="number" id="categoriesCount">2</div>
                 <div class="label">Categorias</div>
             </div>
             <div class="stat-card">
@@ -296,6 +296,47 @@
         </div>
 
         <div class="apps-grid" id="appsGrid">
+            
+            <div class="app-card" data-category="admin" data-tags="anotação,dataset,classificação,árvore temática,govbrnews" data-keywords="anotação, notícias, classificação, temas, dataset, ground truth">
+                <div class="app-header">
+                    <div class="app-icon">📋</div>
+                    <div class="app-title">
+                        <h3>Anotação de Notícias</h3>
+                        <div class="version">v1.0.0</div>
+                    </div>
+                </div>
+
+                <div class="app-description">
+                    App para anotar notícias com temas de uma taxonomia hierárquica. Usado para classificação manual de artigos do govbrnews.
+                </div>
+
+                <div class="app-meta">
+                    <span class="category-badge">admin</span>
+                    <span>⭐ 0</span>
+                    <span>👤 Nitai Bezerra</span>
+                </div>
+
+                
+                <div class="app-tags">
+                    
+                    <span class="tag">anotação</span>
+                    
+                    <span class="tag">dataset</span>
+                    
+                    <span class="tag">classificação</span>
+                    
+                    <span class="tag">árvore temática</span>
+                    
+                    <span class="tag">govbrnews</span>
+                    
+                </div>
+                
+
+                <div class="app-footer">
+                    <a href="https://github.com/destaquesgovbr/streamlit-annotation-app" class="btn btn-secondary" target="_blank">Código</a>
+                    <a href="https://github.com/destaquesgovbr/streamlit-annotation-app/blob/main/README.md" class="btn btn-primary" target="_blank">Abrir App</a>
+                </div>
+            </div>
             
             <div class="app-card" data-category="analytics" data-tags="governo,notícias,análise-temporal,huggingface,govbr" data-keywords="noticias, governo, govbr, analise, dashboard, temporal, agencias">
                 <div class="app-header">
@@ -419,14 +460,14 @@
         </div>
 
         <footer class="footer">
-            <p>Atualizado em 2025-12-22 06:21 UTC</p>
+            <p>Atualizado em 2025-12-23 06:20 UTC</p>
             <p>Plataforma Streamlit DGB</p>
         </footer>
     </div>
 
     <script>
         // Initialize category filters
-        const categories = ["analytics"];
+        const categories = ["admin", "analytics"];
         let activeCategory = null;
 
         const filtersContainer = document.getElementById('categoryFilters');

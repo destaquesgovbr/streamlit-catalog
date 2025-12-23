@@ -21,7 +21,7 @@
     "documentation": "https://github.com/destaquesgovbr/streamlit-dgb-basic/blob/main/README.md",
     "_repo_name": "streamlit-dgb-basic",
     "_repo_url": "https://github.com/destaquesgovbr/streamlit-dgb-basic",
-    "_last_updated": "2025-12-10T20:17:20Z",
+    "_last_updated": "2025-12-22T14:26:58Z",
     "_stars": 0
   },
   {
@@ -43,7 +43,7 @@
     "documentation": "https://github.com/destaquesgovbr/streamlit-my-app/blob/main/README.md",
     "_repo_name": "streamlit-test-app",
     "_repo_url": "https://github.com/destaquesgovbr/streamlit-test-app",
-    "_last_updated": "2025-12-09T23:33:27Z",
+    "_last_updated": "2025-12-22T14:26:43Z",
     "_stars": 0
   },
   {
@@ -67,7 +67,32 @@
     "documentation": "https://github.com/destaquesgovbr/streamlit-template-huggingface/blob/main/README.md",
     "_repo_name": "streamlit-template-huggingface",
     "_repo_url": "https://github.com/destaquesgovbr/streamlit-template-huggingface",
-    "_last_updated": "2025-12-10T20:38:31Z",
+    "_last_updated": "2025-12-22T15:10:15Z",
+    "_stars": 0
+  },
+  {
+    "name": "Anota\u00e7\u00e3o de Not\u00edcias",
+    "description": "App para anotar not\u00edcias com temas de uma taxonomia hier\u00e1rquica. Usado para classifica\u00e7\u00e3o manual de artigos do govbrnews.",
+    "owner": {
+      "name": "Nitai Bezerra",
+      "email": "nitaibezerra@protonmail.com"
+    },
+    "category": "admin",
+    "tags": [
+      "anota\u00e7\u00e3o",
+      "dataset",
+      "classifica\u00e7\u00e3o",
+      "\u00e1rvore tem\u00e1tica",
+      "govbrnews"
+    ],
+    "keywords": "anota\u00e7\u00e3o, not\u00edcias, classifica\u00e7\u00e3o, temas, dataset, ground truth",
+    "icon": "\ud83d\udccb",
+    "version": "1.0.0",
+    "repository": "https://github.com/destaquesgovbr/streamlit-annotation-app",
+    "documentation": "https://github.com/destaquesgovbr/streamlit-annotation-app/blob/main/README.md",
+    "_repo_name": "streamlit-annotation-app",
+    "_repo_url": "https://github.com/destaquesgovbr/streamlit-annotation-app",
+    "_last_updated": "2025-12-22T14:27:22Z",
     "_stars": 0
   }
 ]
