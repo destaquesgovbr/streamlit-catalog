@@ -111,7 +111,7 @@ Este repositório é gerado automaticamente. Se você encontrar problemas:
 
 ## Licença
 
-MIT License - ver [LICENSE](LICENSE) para detalhes.
+AGPL-3.0 License - ver [LICENSE](LICENSE) para detalhes.
 
 ## Links
 
