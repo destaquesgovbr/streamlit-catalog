@@ -344,7 +344,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
                 <div class="app-footer">
                     <a href="{{ app._repo_url }}" class="btn btn-secondary" target="_blank">Código</a>
-                    <a href="{{ app.documentation }}" class="btn btn-primary" target="_blank">Abrir App</a>
+                    <a href="https://{{ app._repo_name }}-klvx64dufq-rj.a.run.app/" class="btn btn-primary" target="_blank">Abrir App</a>
                 </div>
             </div>
             {% endfor %}
