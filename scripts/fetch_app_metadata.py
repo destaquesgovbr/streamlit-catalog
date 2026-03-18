@@ -38,7 +38,7 @@ def fetch_streamlit_repos(token: str) -> List[Dict]:
 
     # Get all repos in the organization
     repos_url = f"{GITHUB_API_BASE}/orgs/{GITHUB_ORG}/repos"
-    params = {"per_page": 100, "type": "public"}
+    params = {"per_page": 100, "type": "all"}
 
     repos = []
     page = 1
